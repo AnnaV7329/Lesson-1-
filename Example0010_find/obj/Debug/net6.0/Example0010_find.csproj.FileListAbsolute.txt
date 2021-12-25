@@ -1,0 +1,15 @@
+/Users/annavilskaa/Desktop/Examples/Example0010_find/obj/Debug/net6.0/Example0010_find.csproj.AssemblyReference.cache
+/Users/annavilskaa/Desktop/Examples/Example0010_find/obj/Debug/net6.0/Example0010_find.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annavilskaa/Desktop/Examples/Example0010_find/obj/Debug/net6.0/Example0010_find.AssemblyInfoInputs.cache
+/Users/annavilskaa/Desktop/Examples/Example0010_find/obj/Debug/net6.0/Example0010_find.AssemblyInfo.cs
+/Users/annavilskaa/Desktop/Examples/Example0010_find/obj/Debug/net6.0/Example0010_find.csproj.CoreCompileInputs.cache
+/Users/annavilskaa/Desktop/Examples/Example0010_find/bin/Debug/net6.0/Example0010_find
+/Users/annavilskaa/Desktop/Examples/Example0010_find/bin/Debug/net6.0/Example0010_find.deps.json
+/Users/annavilskaa/Desktop/Examples/Example0010_find/bin/Debug/net6.0/Example0010_find.runtimeconfig.json
+/Users/annavilskaa/Desktop/Examples/Example0010_find/bin/Debug/net6.0/Example0010_find.dll
+/Users/annavilskaa/Desktop/Examples/Example0010_find/bin/Debug/net6.0/ref/Example0010_find.dll
+/Users/annavilskaa/Desktop/Examples/Example0010_find/bin/Debug/net6.0/Example0010_find.pdb
+/Users/annavilskaa/Desktop/Examples/Example0010_find/obj/Debug/net6.0/Example0010_find.dll
+/Users/annavilskaa/Desktop/Examples/Example0010_find/obj/Debug/net6.0/ref/Example0010_find.dll
+/Users/annavilskaa/Desktop/Examples/Example0010_find/obj/Debug/net6.0/Example0010_find.pdb
+/Users/annavilskaa/Desktop/Examples/Example0010_find/obj/Debug/net6.0/Example0010_find.genruntimeconfig.cache
