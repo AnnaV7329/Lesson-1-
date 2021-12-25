@@ -1,0 +1,15 @@
+/Users/annavilskaa/Desktop/Examples/Example008_IntoMethods/obj/Debug/net6.0/Example008_IntoMethods.csproj.AssemblyReference.cache
+/Users/annavilskaa/Desktop/Examples/Example008_IntoMethods/obj/Debug/net6.0/Example008_IntoMethods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annavilskaa/Desktop/Examples/Example008_IntoMethods/obj/Debug/net6.0/Example008_IntoMethods.AssemblyInfoInputs.cache
+/Users/annavilskaa/Desktop/Examples/Example008_IntoMethods/obj/Debug/net6.0/Example008_IntoMethods.AssemblyInfo.cs
+/Users/annavilskaa/Desktop/Examples/Example008_IntoMethods/obj/Debug/net6.0/Example008_IntoMethods.csproj.CoreCompileInputs.cache
+/Users/annavilskaa/Desktop/Examples/Example008_IntoMethods/bin/Debug/net6.0/Example008_IntoMethods
+/Users/annavilskaa/Desktop/Examples/Example008_IntoMethods/bin/Debug/net6.0/Example008_IntoMethods.deps.json
+/Users/annavilskaa/Desktop/Examples/Example008_IntoMethods/bin/Debug/net6.0/Example008_IntoMethods.runtimeconfig.json
+/Users/annavilskaa/Desktop/Examples/Example008_IntoMethods/bin/Debug/net6.0/Example008_IntoMethods.dll
+/Users/annavilskaa/Desktop/Examples/Example008_IntoMethods/bin/Debug/net6.0/ref/Example008_IntoMethods.dll
+/Users/annavilskaa/Desktop/Examples/Example008_IntoMethods/bin/Debug/net6.0/Example008_IntoMethods.pdb
+/Users/annavilskaa/Desktop/Examples/Example008_IntoMethods/obj/Debug/net6.0/Example008_IntoMethods.dll
+/Users/annavilskaa/Desktop/Examples/Example008_IntoMethods/obj/Debug/net6.0/ref/Example008_IntoMethods.dll
+/Users/annavilskaa/Desktop/Examples/Example008_IntoMethods/obj/Debug/net6.0/Example008_IntoMethods.pdb
+/Users/annavilskaa/Desktop/Examples/Example008_IntoMethods/obj/Debug/net6.0/Example008_IntoMethods.genruntimeconfig.cache
