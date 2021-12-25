@@ -1,0 +1,15 @@
+/Users/annavilskaa/Desktop/Examples/Example007_Magic/bin/Debug/net6.0/Example007_Magic
+/Users/annavilskaa/Desktop/Examples/Example007_Magic/bin/Debug/net6.0/Example007_Magic.deps.json
+/Users/annavilskaa/Desktop/Examples/Example007_Magic/bin/Debug/net6.0/Example007_Magic.runtimeconfig.json
+/Users/annavilskaa/Desktop/Examples/Example007_Magic/bin/Debug/net6.0/Example007_Magic.dll
+/Users/annavilskaa/Desktop/Examples/Example007_Magic/bin/Debug/net6.0/ref/Example007_Magic.dll
+/Users/annavilskaa/Desktop/Examples/Example007_Magic/bin/Debug/net6.0/Example007_Magic.pdb
+/Users/annavilskaa/Desktop/Examples/Example007_Magic/obj/Debug/net6.0/Example007_Magic.csproj.AssemblyReference.cache
+/Users/annavilskaa/Desktop/Examples/Example007_Magic/obj/Debug/net6.0/Example007_Magic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annavilskaa/Desktop/Examples/Example007_Magic/obj/Debug/net6.0/Example007_Magic.AssemblyInfoInputs.cache
+/Users/annavilskaa/Desktop/Examples/Example007_Magic/obj/Debug/net6.0/Example007_Magic.AssemblyInfo.cs
+/Users/annavilskaa/Desktop/Examples/Example007_Magic/obj/Debug/net6.0/Example007_Magic.csproj.CoreCompileInputs.cache
+/Users/annavilskaa/Desktop/Examples/Example007_Magic/obj/Debug/net6.0/Example007_Magic.dll
+/Users/annavilskaa/Desktop/Examples/Example007_Magic/obj/Debug/net6.0/ref/Example007_Magic.dll
+/Users/annavilskaa/Desktop/Examples/Example007_Magic/obj/Debug/net6.0/Example007_Magic.pdb
+/Users/annavilskaa/Desktop/Examples/Example007_Magic/obj/Debug/net6.0/Example007_Magic.genruntimeconfig.cache
