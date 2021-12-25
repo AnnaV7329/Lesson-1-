@@ -1,0 +1,5 @@
+/Users/annavilskaa/Desktop/Examples/Example013_Text/obj/Debug/net6.0/Example013_Text.csproj.AssemblyReference.cache
+/Users/annavilskaa/Desktop/Examples/Example013_Text/obj/Debug/net6.0/Example013_Text.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annavilskaa/Desktop/Examples/Example013_Text/obj/Debug/net6.0/Example013_Text.AssemblyInfoInputs.cache
+/Users/annavilskaa/Desktop/Examples/Example013_Text/obj/Debug/net6.0/Example013_Text.AssemblyInfo.cs
+/Users/annavilskaa/Desktop/Examples/Example013_Text/obj/Debug/net6.0/Example013_Text.csproj.CoreCompileInputs.cache
